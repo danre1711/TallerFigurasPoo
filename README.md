@@ -50,4 +50,6 @@ Demuestra polimorfismo, llamando métodos sin saber qué tipo de figura es.
 • Captura de pantalla de la ejecución 
 <img width="1919" height="1069" alt="Captura de pantalla 2025-11-20 215421" src="https://github.com/user-attachments/assets/d33640ed-28a0-4faf-b50e-5cb5d59e19ad" />
 
+<img width="691" height="585" alt="image" src="https://github.com/user-attachments/assets/de175047-f929-4194-bced-448112137b81" />
+
 
